@@ -92,6 +92,3 @@ The model successfully predicts unseen dog and cat images after preprocessing.
 ![Cat Prediction](cat_prediction.png)
 
 ---
-**Kajal Singh**
-
-GitHub: https://github.com/kajallsingh
